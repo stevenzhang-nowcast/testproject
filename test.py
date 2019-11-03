@@ -1,2 +1,2 @@
-print ('asfsf')
+print('asfsf')
 print('sfsdf')
